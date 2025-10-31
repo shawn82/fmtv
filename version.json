@@ -1,4 +1,5 @@
-  {
+[
+{
     "latestVersion": "手机版 3.2.6 V8a ",
     "releaseDate": "2025-10-31",
     "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.26/FMTV_3.0_mobile_3.2.6_v8a.apk"
@@ -13,3 +14,4 @@
     "releaseDate": "2025-10-31",
     "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.26/FMTV_3.0_TV_3.2.6_v7a.apk"
   }
+]
