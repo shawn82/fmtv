@@ -1,17 +1,17 @@
 [
 {
-    "latestVersion": "3.5.9",
-    "releaseDate": "2026-01-06 | Bug修复",
-    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.59/FMTV_3.0_mobile_3.5.9_v8a.apk"
+    "latestVersion": "3.6.0",
+    "releaseDate": "2026-01-07 | 修复播放历史不显示",
+    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.60/FMTV_3.0_mobile_3.6.0_v8a.apk"
   },
   {
-    "latestVersion": "3.5.9",
-    "releaseDate": "2026-01-06 | Bug修复",
-    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.59/FMTV_3.0_mobile_3.5.9_v7a.apk"
+    "latestVersion": "3.6.0",
+    "releaseDate": "2026-01-07 | 修复播放历史不显示",
+    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.60/FMTV_3.0_mobile_3.6.0_v7a.apk"
   },
   {
-    "latestVersion": "3.5.9",
-    "releaseDate": "2026-01-06 | Bug修复",
-    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.59/FMTV_3.0_TV_3.5.9_v7a.apk"
+    "latestVersion": "3.6.0",
+    "releaseDate": "2026-01-07 | 修复播放历史不显示",
+    "downloadUrl": "https://github.com/shawn82/fmtv/releases/download/v3.60/FMTV_3.0_TV_3.6.0_v7a.apk"
   }
 ]
